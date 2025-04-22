@@ -85,10 +85,7 @@ This project is a data-driven case study to help optimize email marketing strate
 
 ---
 
-## 📬 Submission Info
 
-- **Deadline:** 22nd April 2025
-- **To Submit:** Share GitHub or Google Colab link via reply to the email
 
 ---
 
@@ -96,7 +93,7 @@ This project is a data-driven case study to help optimize email marketing strate
 
 - Cross-validation was applied **only on XGBoost** using `cross_val_score`.
 - Logistic Regression was evaluated using a simple train-test split.
-- All plots and metrics were generated directly from the actual data – no assumptions were made.
+  
 
 ---
 
